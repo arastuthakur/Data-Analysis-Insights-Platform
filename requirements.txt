@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+google-generativeai
+python-dotenv
+matplotlib
+seaborn
+tensorflow
+xgboost
+lightgbm
+imbalanced-learn 
